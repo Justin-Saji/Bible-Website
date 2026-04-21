@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import BrowserRouter basename="/Bible-Website" from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate, useSearchParams } from 'react-router-dom';
 import { AuthProvider, useAuth } from './context/AuthContext';
 import DailyVerse from './components/DailyVerse';
 import DivineGuidance from './components/DivineGuidance';
