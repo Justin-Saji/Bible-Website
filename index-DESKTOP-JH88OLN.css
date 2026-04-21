@@ -1,0 +1,7 @@
+/* Keep minimal global styling; most styling lives in styles.css */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fffaf0;
+}
+

@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first man created by God?",
+      "options": ["Adam", "Noah", "Abraham", "Moses"],
+      "correct_answer": "Adam",
+      "reference": "Genesis 2:7",
+      "difficulty": "easy",
+      "category": "Old Testament"
+    },
+    {
+      "question": "What was the name of the sea that Moses parted?",
+      "options": ["Mediterranean Sea", "Red Sea", "Dead Sea", "Sea of Galilee"],
+      "correct_answer": "Red Sea",
+      "reference": "Exodus 14:21",
+      "difficulty": "easy",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who defeated Goliath?",
+      "options": ["Saul", "Jonathan", "David", "Samuel"],
+      "correct_answer": "David",
+      "reference": "1 Samuel 17:50",
+      "difficulty": "easy",
+      "category": "Old Testament"
+    },
+    {
+      "question": "How many plagues did God send to Egypt?",
+      "options": ["7", "10", "12", "40"],
+      "correct_answer": "10",
+      "reference": "Exodus 7-12",
+      "difficulty": "medium",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who was thrown into the lion's den?",
+      "options": ["Jeremiah", "Ezekiel", "Daniel", "Isaiah"],
+      "correct_answer": "Daniel",
+      "reference": "Daniel 6:16",
+      "difficulty": "easy",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who built the ark?",
+      "options": ["Abraham", "Noah", "Moses", "David"],
+      "correct_answer": "Noah",
+      "reference": "Genesis 6:14",
+      "difficulty": "easy",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who was the wisest king of Israel?",
+      "options": ["David", "Saul", "Solomon", "Samuel"],
+      "correct_answer": "Solomon",
+      "reference": "1 Kings 3:12",
+      "difficulty": "easy",
+      "category": "Old Testament"
+    },
+    {
+      "question": "What city did Joshua and the Israelites conquer by marching around its walls?",
+      "options": ["Jerusalem", "Jericho", "Bethlehem", "Nazareth"],
+      "correct_answer": "Jericho",
+      "reference": "Joshua 6:20",
+      "difficulty": "medium",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who interpreted Pharaoh's dreams?",
+      "options": ["Moses", "Joseph", "Aaron", "Joshua"],
+      "correct_answer": "Joseph",
+      "reference": "Genesis 41:15",
+      "difficulty": "medium",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who was the first high priest of Israel?",
+      "options": ["Moses", "Aaron", "Samuel", "Eli"],
+      "correct_answer": "Aaron",
+      "reference": "Exodus 28:1",
+      "difficulty": "medium",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who betrayed Jesus?",
+      "options": ["Peter", "Judas Iscariot", "Thomas", "John"],
+      "correct_answer": "Judas Iscariot",
+      "reference": "Matthew 26:14-16",
+      "difficulty": "easy",
+      "category": "New Testament"
+    },
+    {
+      "question": "Who wrote most of the New Testament letters?",
+      "options": ["Peter", "John", "Paul", "James"],
+      "correct_answer": "Paul",
+      "reference": "Various Epistles",
+      "difficulty": "medium",
+      "category": "New Testament"
+    },
+    {
+      "question": "Where was Jesus born?",
+      "options": ["Nazareth", "Jerusalem", "Bethlehem", "Galilee"],
+      "correct_answer": "Bethlehem",
+      "reference": "Matthew 2:1",
+      "difficulty": "easy",
+      "category": "New Testament"
+    },
+    {
+      "question": "How many disciples did Jesus have?",
+      "options": ["7", "10", "12", "40"],
+      "correct_answer": "12",
+      "reference": "Matthew 10:1",
+      "difficulty": "easy",
+      "category": "New Testament"
+    },
+    {
+      "question": "Who denied Jesus three times?",
+      "options": ["Judas", "Peter", "John", "Thomas"],
+      "correct_answer": "Peter",
+      "reference": "Matthew 26:69-75",
+      "difficulty": "easy",
+      "category": "New Testament"
+    },
+    {
+      "question": "What is the first book of the New Testament?",
+      "options": ["Mark", "Luke", "Matthew", "John"],
+      "correct_answer": "Matthew",
+      "reference": "Matthew 1:1",
+      "difficulty": "easy",
+      "category": "New Testament"
+    },
+    {
+      "question": "Who was the first martyr?",
+      "options": ["Peter", "Paul", "Stephen", "James"],
+      "correct_answer": "Stephen",
+      "reference": "Acts 7:59",
+      "difficulty": "medium",
+      "category": "New Testament"
+    },
+    {
+      "question": "Who wrote the Book of Revelation?",
+      "options": ["Peter", "Paul", "John", "James"],
+      "correct_answer": "John",
+      "reference": "Revelation 1:1",
+      "difficulty": "medium",
+      "category": "New Testament"
+    },
+    {
+      "question": "What was Paul's original name?",
+      "options": ["Simon", "Saul", "Silas", "Stephen"],
+      "correct_answer": "Saul",
+      "reference": "Acts 13:9",
+      "difficulty": "medium",
+      "category": "New Testament"
+    },
+    {
+      "question": "Who walked on water with Jesus?",
+      "options": ["James", "John", "Peter", "Andrew"],
+      "correct_answer": "Peter",
+      "reference": "Matthew 14:29",
+      "difficulty": "medium",
+      "category": "New Testament"
+    },
+    {
+      "question": "What is the longest book in the Bible?",
+      "options": ["Genesis", "Isaiah", "Psalms", "Jeremiah"],
+      "correct_answer": "Psalms",
+      "reference": "Psalms (150 chapters)",
+      "difficulty": "hard",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who was the oldest man in the Bible?",
+      "options": ["Adam", "Noah", "Methuselah", "Abraham"],
+      "correct_answer": "Methuselah",
+      "reference": "Genesis 5:27",
+      "difficulty": "hard",
+      "category": "Old Testament"
+    },
+    {
+      "question": "How many books are in the Bible?",
+      "options": ["39", "66", "73", "80"],
+      "correct_answer": "66",
+      "reference": "39 OT + 27 NT",
+      "difficulty": "medium",
+      "category": "General"
+    },
+    {
+      "question": "Who was the first king of Israel?",
+      "options": ["David", "Saul", "Solomon", "Samuel"],
+      "correct_answer": "Saul",
+      "reference": "1 Samuel 10:1",
+      "difficulty": "medium",
+      "category": "Old Testament"
+    },
+    {
+      "question": "What language was the New Testament originally written in?",
+      "options": ["Hebrew", "Latin", "Greek", "Aramaic"],
+      "correct_answer": "Greek",
+      "reference": "Historical context",
+      "difficulty": "hard",
+      "category": "New Testament"
+    },
+    {
+      "question": "Who was the prophet who was taken up in a chariot of fire?",
+      "options": ["Elijah", "Elisha", "Isaiah", "Jeremiah"],
+      "correct_answer": "Elijah",
+      "reference": "2 Kings 2:11",
+      "difficulty": "medium",
+      "category": "Old Testament"
+    },
+    {
+      "question": "What is the shortest verse in the Bible?",
+      "options": ["God is love", "Jesus wept", "Pray without ceasing", "Rejoice always"],
+      "correct_answer": "Jesus wept",
+      "reference": "John 11:35",
+      "difficulty": "medium",
+      "category": "New Testament"
+    },
+    {
+      "question": "Who led the Israelites into the Promised Land?",
+      "options": ["Moses", "Joshua", "Caleb", "Aaron"],
+      "correct_answer": "Joshua",
+      "reference": "Joshua 1:2",
+      "difficulty": "easy",
+      "category": "Old Testament"
+    },
+    {
+      "question": "Who was known as the father of many nations?",
+      "options": ["Isaac", "Abraham", "Jacob", "Joseph"],
+      "correct_answer": "Abraham",
+      "reference": "Genesis 17:5",
+      "difficulty": "easy",
+      "category": "Old Testament"
+    },
+    {
+      "question": "What is the Great Commission?",
+      "options": ["Love your neighbor", "Go and make disciples", "Feed the hungry", "Heal the sick"],
+      "correct_answer": "Go and make disciples",
+      "reference": "Matthew 28:19-20",
+      "difficulty": "medium",
+      "category": "New Testament"
+    }
+  ]
+}
